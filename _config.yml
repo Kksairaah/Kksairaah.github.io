@@ -1,3 +1,5 @@
-title: Rakshikaa Anand
-logo:"C:\Users\raksh\OneDrive\Pictures\profile pic.heic"
-theme:jekyll-theme-minimal
+title: Shaw Talebi
+logo: /assets/img/headshot_circle.png
+#description: text below image
+show_downloads: false
+theme: jekyll-theme-minimal
